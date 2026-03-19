@@ -1,0 +1,427 @@
+{
+  "updated_at": "2026-03-18T06:57:14Z",
+  "source": "Tankathon full_draft",
+  "source_url": "https://www.tankathon.com/full_draft",
+  "draft_order": [
+    {
+      "pick": 1,
+      "round": 1,
+      "original_team": "IND",
+      "current_team": "IND",
+      "via": null
+    },
+    {
+      "pick": 2,
+      "round": 1,
+      "original_team": "WAS",
+      "current_team": "WAS",
+      "via": null
+    },
+    {
+      "pick": 3,
+      "round": 1,
+      "original_team": "BKN",
+      "current_team": "BKN",
+      "via": null
+    },
+    {
+      "pick": 4,
+      "round": 1,
+      "original_team": "SAC",
+      "current_team": "SAC",
+      "via": null
+    },
+    {
+      "pick": 5,
+      "round": 1,
+      "original_team": "UTA",
+      "current_team": "UTA",
+      "via": null
+    },
+    {
+      "pick": 6,
+      "round": 1,
+      "original_team": "DAL",
+      "current_team": "DAL",
+      "via": null
+    },
+    {
+      "pick": 7,
+      "round": 1,
+      "original_team": "NOP",
+      "current_team": "ATL",
+      "via": "NOP"
+    },
+    {
+      "pick": 8,
+      "round": 1,
+      "original_team": "MEM",
+      "current_team": "MEM",
+      "via": null
+    },
+    {
+      "pick": 9,
+      "round": 1,
+      "original_team": "MIL",
+      "current_team": "MIL",
+      "via": null
+    },
+    {
+      "pick": 10,
+      "round": 1,
+      "original_team": "CHI",
+      "current_team": "CHI",
+      "via": null
+    },
+    {
+      "pick": 11,
+      "round": 1,
+      "original_team": "POR",
+      "current_team": "POR",
+      "via": null
+    },
+    {
+      "pick": 12,
+      "round": 1,
+      "original_team": "GSW",
+      "current_team": "GSW",
+      "via": null
+    },
+    {
+      "pick": 13,
+      "round": 1,
+      "original_team": "CHA",
+      "current_team": "CHA",
+      "via": null
+    },
+    {
+      "pick": 14,
+      "round": 1,
+      "original_team": "PHI",
+      "current_team": "OKC",
+      "via": "PHI"
+    },
+    {
+      "pick": 15,
+      "round": 1,
+      "original_team": "LAC",
+      "current_team": "OKC",
+      "via": "LAC"
+    },
+    {
+      "pick": 16,
+      "round": 1,
+      "original_team": "ATL",
+      "current_team": "SAS",
+      "via": "ATL"
+    },
+    {
+      "pick": 17,
+      "round": 1,
+      "original_team": "MIA",
+      "current_team": "MIA",
+      "via": null
+    },
+    {
+      "pick": 18,
+      "round": 1,
+      "original_team": "ORL",
+      "current_team": "MEM",
+      "via": "ORL"
+    },
+    {
+      "pick": 19,
+      "round": 1,
+      "original_team": "PHX",
+      "current_team": "CHA",
+      "via": "PHX"
+    },
+    {
+      "pick": 20,
+      "round": 1,
+      "original_team": "TOR",
+      "current_team": "TOR",
+      "via": null
+    },
+    {
+      "pick": 21,
+      "round": 1,
+      "original_team": "DEN",
+      "current_team": "DEN",
+      "via": null
+    },
+    {
+      "pick": 22,
+      "round": 1,
+      "original_team": "CLE",
+      "current_team": "ATL",
+      "via": "CLE"
+    },
+    {
+      "pick": 23,
+      "round": 1,
+      "original_team": "MIN",
+      "current_team": "DET",
+      "via": "MIN"
+    },
+    {
+      "pick": 24,
+      "round": 1,
+      "original_team": "HOU",
+      "current_team": "PHI",
+      "via": "HOU"
+    },
+    {
+      "pick": 25,
+      "round": 1,
+      "original_team": "LAL",
+      "current_team": "LAL",
+      "via": null
+    },
+    {
+      "pick": 26,
+      "round": 1,
+      "original_team": "NYK",
+      "current_team": "NYK",
+      "via": null
+    },
+    {
+      "pick": 27,
+      "round": 1,
+      "original_team": "BOS",
+      "current_team": "BOS",
+      "via": null
+    },
+    {
+      "pick": 28,
+      "round": 1,
+      "original_team": "DET",
+      "current_team": "MIN",
+      "via": "DET"
+    },
+    {
+      "pick": 29,
+      "round": 1,
+      "original_team": "SAS",
+      "current_team": "CLE",
+      "via": "SAS"
+    },
+    {
+      "pick": 30,
+      "round": 1,
+      "original_team": "OKC",
+      "current_team": "DAL",
+      "via": "OKC"
+    },
+    {
+      "pick": 31,
+      "round": 2,
+      "original_team": "IND",
+      "current_team": "MEM",
+      "via": "IND"
+    },
+    {
+      "pick": 32,
+      "round": 2,
+      "original_team": "WAS",
+      "current_team": "NYK",
+      "via": "WAS"
+    },
+    {
+      "pick": 33,
+      "round": 2,
+      "original_team": "BKN",
+      "current_team": "BKN",
+      "via": null
+    },
+    {
+      "pick": 34,
+      "round": 2,
+      "original_team": "SAC",
+      "current_team": "SAC",
+      "via": null
+    },
+    {
+      "pick": 35,
+      "round": 2,
+      "original_team": "UTA",
+      "current_team": "SAS",
+      "via": "UTA"
+    },
+    {
+      "pick": 36,
+      "round": 2,
+      "original_team": "NOP",
+      "current_team": "CHI",
+      "via": "NOP"
+    },
+    {
+      "pick": 37,
+      "round": 2,
+      "original_team": "DAL",
+      "current_team": "OKC",
+      "via": "DAL"
+    },
+    {
+      "pick": 38,
+      "round": 2,
+      "original_team": "MEM",
+      "current_team": "LAC",
+      "via": "MEM"
+    },
+    {
+      "pick": 39,
+      "round": 2,
+      "original_team": "CHI",
+      "current_team": "HOU",
+      "via": "CHI"
+    },
+    {
+      "pick": 40,
+      "round": 2,
+      "original_team": "MIL",
+      "current_team": "BOS",
+      "via": "MIL"
+    },
+    {
+      "pick": 41,
+      "round": 2,
+      "original_team": "POR",
+      "current_team": "SAS",
+      "via": "POR"
+    },
+    {
+      "pick": 42,
+      "round": 2,
+      "original_team": "GSW",
+      "current_team": "MIA",
+      "via": "GSW"
+    },
+    {
+      "pick": 43,
+      "round": 2,
+      "original_team": "LAC",
+      "current_team": "BKN",
+      "via": "LAC"
+    },
+    {
+      "pick": 44,
+      "round": 2,
+      "original_team": "CHA",
+      "current_team": "SAC",
+      "via": "CHA"
+    },
+    {
+      "pick": 45,
+      "round": 2,
+      "original_team": "PHI",
+      "current_team": "PHX",
+      "via": "PHI"
+    },
+    {
+      "pick": 46,
+      "round": 2,
+      "original_team": "ATL",
+      "current_team": "DEN",
+      "via": "ATL"
+    },
+    {
+      "pick": 47,
+      "round": 2,
+      "original_team": "MIA",
+      "current_team": "SAS",
+      "via": "MIA"
+    },
+    {
+      "pick": 48,
+      "round": 2,
+      "original_team": "ORL",
+      "current_team": "ORL",
+      "via": null
+    },
+    {
+      "pick": 49,
+      "round": 2,
+      "original_team": "PHX",
+      "current_team": "DAL",
+      "via": "PHX"
+    },
+    {
+      "pick": 50,
+      "round": 2,
+      "original_team": "TOR",
+      "current_team": "TOR",
+      "via": null
+    },
+    {
+      "pick": 51,
+      "round": 2,
+      "original_team": "MIN",
+      "current_team": "WAS",
+      "via": "MIN"
+    },
+    {
+      "pick": 52,
+      "round": 2,
+      "original_team": "CLE",
+      "current_team": "LAC",
+      "via": "CLE"
+    },
+    {
+      "pick": 53,
+      "round": 2,
+      "original_team": "DEN",
+      "current_team": "CHI",
+      "via": "DEN"
+    },
+    {
+      "pick": 54,
+      "round": 2,
+      "original_team": "HOU",
+      "current_team": "HOU",
+      "via": null
+    },
+    {
+      "pick": 55,
+      "round": 2,
+      "original_team": "LAL",
+      "current_team": "GSW",
+      "via": "LAL"
+    },
+    {
+      "pick": 56,
+      "round": 2,
+      "original_team": "NYK",
+      "current_team": "NYK",
+      "via": null
+    },
+    {
+      "pick": 57,
+      "round": 2,
+      "original_team": "BOS",
+      "current_team": "ATL",
+      "via": "BOS"
+    },
+    {
+      "pick": 58,
+      "round": 2,
+      "original_team": "DET",
+      "current_team": "NOP",
+      "via": "DET"
+    },
+    {
+      "pick": 59,
+      "round": 2,
+      "original_team": "SAS",
+      "current_team": "MIN",
+      "via": "SAS"
+    },
+    {
+      "pick": 60,
+      "round": 2,
+      "original_team": "OKC",
+      "current_team": "WAS",
+      "via": "OKC"
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "sources": [
+    {
+      "name": "nba.com",
+      "type": "official",
+      "priority": 1,
+      "cadence_minutes": 60,
+      "base_url": "https://www.nba.com",
+      "robots_url": "https://www.nba.com/robots.txt",
+      "allowed_paths": ["/schedule", "/standings", "/players", "/stats/help"],
+      "notes": "Prefer official endpoints or public pages. Respect robots.txt."
+    },
+    {
+      "name": "espn.com",
+      "type": "media",
+      "priority": 2,
+      "cadence_minutes": 60,
+      "base_url": "https://www.espn.com",
+      "robots_url": "https://www.espn.com/robots.txt",
+      "allowed_paths": ["/nba"],
+      "notes": "Use public pages only; avoid paywalled content."
+    },
+    {
+      "name": "basketball-reference.com",
+      "type": "stats",
+      "priority": 2,
+      "cadence_minutes": 360,
+      "base_url": "https://www.basketball-reference.com",
+      "robots_url": "https://www.basketball-reference.com/robots.txt",
+      "allowed_paths": [],
+      "notes": "Default deny until robots.txt is verified; cache aggressively."
+    },
+    {
+      "name": "fanspo.com",
+      "type": "cap",
+      "priority": 2,
+      "cadence_minutes": 360,
+      "base_url": "https://www.fanspo.com",
+      "robots_url": "https://www.fanspo.com/robots.txt",
+      "allowed_paths": [],
+      "notes": "Default deny until robots.txt is verified; validate with CBA rules."
+    },
+    {
+      "name": "tankathon.com",
+      "type": "draft",
+      "priority": 2,
+      "cadence_minutes": 360,
+      "base_url": "https://www.tankathon.com",
+      "robots_url": "https://www.tankathon.com/robots.txt",
+      "allowed_paths": [],
+      "notes": "Default deny until robots.txt is verified; use manual snapshot if needed."
+    },
+    {
+      "name": "noceilingsnba.com",
+      "type": "draft",
+      "priority": 2,
+      "cadence_minutes": 720,
+      "base_url": "https://noceilingsnba.com",
+      "robots_url": "https://noceilingsnba.com/robots.txt",
+      "allowed_paths": [],
+      "notes": "Default deny until robots.txt is verified; use manual snapshot if needed."
+    },
+    {
+      "name": "barttorvik.com",
+      "type": "college",
+      "priority": 3,
+      "cadence_minutes": 720,
+      "base_url": "https://barttorvik.com",
+      "robots_url": "https://barttorvik.com/robots.txt",
+      "allowed_paths": [],
+      "notes": "Optional; default deny until robots.txt is verified."
+    },
+    {
+      "name": "basketball-excel.com",
+      "type": "training",
+      "priority": 3,
+      "cadence_minutes": 720,
+      "base_url": "https://basketball-excel.com",
+      "robots_url": "https://basketball-excel.com/robots.txt",
+      "allowed_paths": [],
+      "notes": "Optional; default deny until robots.txt is verified."
+    }
+  ]
+}
